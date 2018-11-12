@@ -21,7 +21,7 @@ The contributions of this repository are as follows.
 (2) We implement an efficient C++ library of the AdaQS algorithm which loads XGBoost format model (both binary format and dump format) and predicts scores for sparse data sets (e.g., libsvm format). This library is used only for experimental analysis 
 and is made unavailable to commercial use.
 
-(3) We also propose to speedup the prediction process with empirical condition distributions statistically inferred from a historical data set. 
+(3) We also propose to speed up the prediction process with empirical condition distributions statistically inferred from a historical data set. 
 
 ## QuickScorer in Brief
 
